@@ -1,4 +1,3 @@
-# OSSP_hw_2
 # main.py
 
 def main():
